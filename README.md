@@ -76,5 +76,6 @@ While making decisions on pricing, Big Mart should put into consideration the It
 And during expansion, big mart sales should go on putting oulets in places with the characteristics of Supermarket type 3, 1 and 2 respectively to maximise sales.
 
 **Technology Used**
+
 Python
 
