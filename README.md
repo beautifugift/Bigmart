@@ -1,6 +1,6 @@
 # Bigmart
 
-The data was gotten fron Kaggle.
+The data was gotten from Kaggle.
 
 
 **About The Dataset**
